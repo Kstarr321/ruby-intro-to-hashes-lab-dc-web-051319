@@ -46,3 +46,20 @@ def monopoly_with_third_tier
 
   }#monopoly
 end
+
+
+def monopoly_with_fourth_tier
+  
+  
+  
+  
+  
+  
+end 
+
+
+
+
+
+
+
